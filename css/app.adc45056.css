@@ -269,7 +269,7 @@ label span[data-v-7501242e]:before {
   flex-direction: column;
 }
 .dialog__header {
-  height: 20%;
+  height: 10%;
   width: 100%;
   align-items: center;
   justify-content: center;
@@ -278,7 +278,7 @@ label span[data-v-7501242e]:before {
   color: #000;
 }
 .dialog__content {
-  height: 80%;
+  height: 90%;
   width: 100%;
   display: flex;
   align-items: flex-start;
@@ -334,7 +334,7 @@ label span[data-v-7501242e]:before {
   justify-content: flex-start;
 }
 .dialog__content--info {
-  height: 20%;
+  height: 10%;
   display: flex;
   align-items: center;
   justify-content: center;
