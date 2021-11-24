@@ -11,7 +11,7 @@
   color: #fff;
   z-index: 50;
 }
-.final-page[data-v-d3f60bc8] {
+.final-page[data-v-ddad6142] {
   background-image: linear-gradient(
       hsla(0, 0%, 100%, 0.1),
       hsla(0, 0%, 100%, 0.3)
@@ -30,12 +30,12 @@
   z-index: 5;
   text-shadow: 1px 1px 2px #000;
 }
-.final-page__header[data-v-d3f60bc8] {
+.final-page__header[data-v-ddad6142] {
   font-size: 600%;
   margin-bottom: 10vmin;
   text-align: center;
 }
-.final-page__body[data-v-d3f60bc8] {
+.final-page__body[data-v-ddad6142] {
   font-size: 300%;
   margin-bottom: 3vmin;
   text-align: center;
